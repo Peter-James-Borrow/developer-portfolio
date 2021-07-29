@@ -1,5 +1,3 @@
 # Developer-portfolio
 
-The idea behind this project is to create a personal portfolio, which will be used to showcase some of my projects.
-
-This README document will be updated as the project is being developed.
+The idea behind this project is to create a portfolio, which will showcase some of my personnal projects.
